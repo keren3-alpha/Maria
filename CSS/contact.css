@@ -7,7 +7,7 @@ form{
  background-color:skyblue;
 }
 body{
-    background-image:url(/form.jpg)
+    background-image:url(../form.jpg)
 }
 label{
     display:block;
