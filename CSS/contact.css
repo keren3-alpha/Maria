@@ -1,0 +1,47 @@
+form{
+ width:500px; 
+ margin:30px auto;
+ padding:30px;
+ border:2px solid; 
+ border-radius:30px; 
+ background-color:skyblue;
+}
+body{
+    background-image:url(/form.jpg)
+}
+label{
+    display:block;
+    margin-top:10px;
+    font-weight:bold;
+}
+    input,select{
+    width:100%;
+    padding:8px;
+    margin-top:5px;
+    }
+
+    a{
+        text-align: right;
+    }
+    footer{
+        background-color: black;
+        color:beige;
+    }
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+    .links{
+    list-style-type: none;
+    margin-top: 0%;
+    display: flex;
+    gap: 50px;
+    font-size: medium;
+    padding-right: 30px;
+    background-color:skyblue;
+    width: 40%;
+    position:fixed;
+    font-weight: bold;
+    border-radius:100px;}
