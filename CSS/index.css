@@ -9,14 +9,13 @@ font-weight:300;
 background-color:aliceblue;
 }
 .mental{
-    background-image: url(/oaad.jpg);
+    background-image: url(../oaad.jpg);
     color: white;
-}
-.yeso{
     font: size 36px;
     font-weight:300;
-    
 }
+
+
 h3,h4,h5,h6{
     border:2px blue solid;
     padding:60px;
